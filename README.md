@@ -2,4 +2,4 @@
 - 👀 I’m interested in Robotic Process Automation (RPA).
 - 🌱 I’m currently learning to master automation using UiPath and Python.
 - 💞️ I’m looking to collaborate on automation projects.
-- 📫 Reach me via jandyaditya@outlook.de
+- 📫 Reach me via jandy@duck.com
